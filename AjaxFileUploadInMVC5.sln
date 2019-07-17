@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxFileUploadInMVC5", "AjaxFileUploadInMVC5\AjaxFileUploadInMVC5.csproj", "{924E71E9-EE70-48CD-8FC7-A86D3BF8248B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924E71E9-EE70-48CD-8FC7-A86D3BF8248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924E71E9-EE70-48CD-8FC7-A86D3BF8248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924E71E9-EE70-48CD-8FC7-A86D3BF8248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924E71E9-EE70-48CD-8FC7-A86D3BF8248B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306AF62C-9367-4EA3-94E9-70452D52DA07}
+	EndGlobalSection
+EndGlobal
